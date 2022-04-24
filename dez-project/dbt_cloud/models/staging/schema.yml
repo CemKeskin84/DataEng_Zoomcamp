@@ -1,0 +1,59 @@
+version: 2
+
+sources:
+    - name: staging_sys1430
+      database: dezcamp-project-57000 
+      schema: pvsys1430
+
+      tables:
+        - name: pvsys1430_01012015
+        - name: pvsys1430_01022015
+        - name: pvsys1430_01032015
+        - name: pvsys1430_01042015
+        - name: pvsys1430_01052015
+        - name: pvsys1430_01062015
+        - name: pvsys1430_01072015
+        - name: pvsys1430_01082015
+        - name: pvsys1430_01092015
+        - name: pvsys1430_01102015
+        - name: pvsys1430_01112015
+        - name: pvsys1430_01122015
+        - name: pvsys1430_01132015
+        - name: pvsys1430_01142015
+        - name: pvsys1430_01152015
+        - name: pvsys1430_01162015
+        - name: pvsys1430_01172015
+        - name: pvsys1430_01182015
+        - name: pvsys1430_01192015
+        - name: pvsys1430_01202015
+        - name: pvsys1430_01212015
+        - name: pvsys1430_01222015
+        - name: pvsys1430_01232015
+        - name: pvsys1430_01242015
+        - name: pvsys1430_01252015
+        - name: pvsys1430_01262015
+        - name: pvsys1430_01272015
+
+
+    - name: staging_sys1431
+      database: dezcamp-project-57000 
+      schema: pvsys1431
+
+      tables:
+        - name: pvsys1431_01012015
+        - name: pvsys1431_01022015
+        - name: pvsys1431_01032015
+        - name: pvsys1431_01042015
+        - name: pvsys1431_01052015
+        - name: pvsys1431_01062015
+        - name: pvsys1431_01072015
+        - name: pvsys1431_01082015
+        - name: pvsys1431_01092015
+
+
+
+
+
+
+
+
