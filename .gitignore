@@ -1,2 +1,3 @@
 dez-project/terraform/.terraform
 dez-project/terraform/terraform.tfstate
+dez-project/terraform/.terraform.lock.hcl
