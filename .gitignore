@@ -1,3 +1,5 @@
 dez-project/terraform/.terraform
 dez-project/terraform/terraform.tfstate
 dez-project/terraform/.terraform.lock.hcl
+dez-project/airflow/logs/*
+dez-project/airflow/dags/__pycache__
