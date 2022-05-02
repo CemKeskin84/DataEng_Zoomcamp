@@ -1,4 +1,9 @@
- 
+
+### The code given below is originally developed for GCP tutorials:
+### https://cloud.google.com/dataproc/docs/tutorials/bigquery-sparkml
+### it is adopted for the PRoject Assignment of Data Engineering Zoomcamp
+### by DataTalks.club
+
 """Run a linear regression using Apache Spark ML.
 
 In the following PySpark (Spark Python API) code, we take the following actions:
